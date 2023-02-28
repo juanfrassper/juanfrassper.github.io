@@ -1,0 +1,37 @@
+
+#caca h1{font-size: 5em;}
+#caca h5{font-size: 2em;}
+header{background-color: aquamarine;
+}
+
+.habilidades{ ;
+    display: inline-block;
+}
+img{height: 250px; ;
+width: 250px; ;
+border-radius: 50%;}
+button{padding: 35px;
+    margin: 15px;
+    border: 0;
+    background-color: #FF7F9D;
+}
+header button{background-color: aquamarine}
+
+main{background-color: #FF7F9D;}
+
+p{font-size: 25px;}
+ul{font-size: 25px;}
+h2 u{color:crimson;
+    font-size: 50px;
+}
+#sobremi{background-color: #FFCC7F;}
+#miscontactos{background-color: #FFCC7F;}
+#habilidad{background-color: #FFCC7F;}
+#experiencias{background-color: #FFCC7F;}
+#herramientas{background-color: #FFCC7F;}
+#idiomas{background-color: #FFCC7F;}
+#estudios{background-color: #FFCC7F;}
+#boton-sobremi{border:dotted 5px blue;
+margin-top: 30px;}
+#boton-contacto{border:dotted 5px blue;
+margin-top: 50px;}
